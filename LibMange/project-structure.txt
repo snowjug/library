@@ -1,0 +1,44 @@
+Library Management System - Project Directory Structure
+
+After setting up your Eclipse project, your directory structure should look like this:
+
+LibraryManagementSystem/
+│
+├── src/
+│   └── com/
+│       └── library/
+│           └── system/
+│               ├── Database.java
+│               └── LibraryManagement.java
+│
+├── build/ (created automatically)
+│   └── com/
+│       └── library/
+│           └── system/
+│               ├── Database.class
+│               └── LibraryManagement.class
+│
+├── Referenced Libraries/ (in Eclipse)
+│   └── sqlite-jdbc-3.50.3.0.jar
+│
+├── sqlite-jdbc-3.50.3.0.jar (downloaded separately)
+├── library.db (created automatically when you first run the app)
+├── run-library-system.bat (Windows script)
+├── run-library-system.sh (Unix/Linux/Mac script)
+├── sample_data.sql (sample data for testing)
+├── setup-guide.md (comprehensive setup guide)
+└── README.md (project documentation)
+
+Quick Start Steps:
+1. Create Eclipse project named "LibraryManagementSystem"
+2. Create package "com.library.system"
+3. Download SQLite JDBC JAR file
+4. Add JAR to project build path
+5. Copy Database.java and LibraryManagement.java to the package
+6. Run LibraryManagement.java as Java Application
+
+Database Location:
+- The SQLite database file (library.db) will be created in the root directory of your Eclipse project
+- You can view/edit this database using SQLite browser tools like DB Browser for SQLite
+
+For detailed setup instructions, see setup-guide.md
