@@ -125,17 +125,6 @@ If you want to suggest features or fix bugs:
 
 This project is **MIT Licensed**. See `LICENSE` for details.
 
----
-
-## Screenshots
-
-![Books Tab](screenshots/books_tab.png)  
-![Borrowers Tab](screenshots/borrowers_tab.png)  
-![Checkouts Tab](screenshots/checkouts_tab.png)  
-
----
-
-## Author
 
 **Your Name** – [Your GitHub](https://github.com/your-username)  
 
