@@ -126,7 +126,7 @@ If you want to suggest features or fix bugs:
 This project is **MIT Licensed**. See `LICENSE` for details.
 
 
-**Your Name** – [Your GitHub](https://github.com/your-username)  
+**SNOWMAN** – [Snow](https://github.com/snowjug)  
 
 ---
 
